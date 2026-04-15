@@ -35,5 +35,5 @@ Building practical AI + geospatial/web products.
 
 ## 📫 Connect
 - GitHub: [dheerajpapani](https://github.com/dheerajpapani)
-- LinkedIn: _Add your LinkedIn URL here_
-- Email: _Add your email here_
+- LinkedIn: [Your LinkedIn URL]
+- Email: your.email@example.com
