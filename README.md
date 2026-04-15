@@ -1,9 +1,6 @@
-# Hi, I'm Dheeraj 👋
+# Hi, I'm Dheeraj Papani 👋
 
-Building practical AI + geospatial/web products.
-
-[![GitHub followers](https://img.shields.io/github/followers/dheerajpapani?label=Follow&style=for-the-badge)](https://github.com/dheerajpapani)
-[![Profile Views](https://komarev.com/ghpvc/?username=dheerajpapani&style=for-the-badge)](https://github.com/dheerajpapani)
+Building practical AI + FullStack products.
 
 ## 👨‍💻 About
 - GitHub: [@dheerajpapani](https://github.com/dheerajpapani)
@@ -22,12 +19,13 @@ Building practical AI + geospatial/web products.
 ![Llama](https://img.shields.io/badge/Llama-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 
 ## 🚀 Featured Projects
+- [SwiftDoc](https://github.com/dheerajpapani/SwiftDoc) — TypeScript-based project for documentation/workflow use cases.
+- [lodestar-dashboard](https://github.com/dheerajpapani/lodestar-dashboard) — Multi-hazard dashboard for flood and drought early warning.
 - [Clara-AI](https://github.com/dheerajpapani/Clara-AI) — Automated NLP pipeline to transform transcripts into structured AI agent configurations.
 - [DakSamadhan-AI](https://github.com/dheerajpapani/DakSamadhan-AI) — AI-driven grievance management with classification and urgency prioritization.
 - [india-map-portal](https://github.com/dheerajpapani/india-map-portal) — Interactive India map portal with GeoJSON overlays and experimental navigation.
-- [lodestar-dashboard](https://github.com/dheerajpapani/lodestar-dashboard) — Multi-hazard dashboard for flood and drought early warning.
 - [Simple-Weather-Dashboard](https://github.com/dheerajpapani/Simple-Weather-Dashboard) — Lightweight geospatial weather app using Leaflet and OpenStreetMap.
-- [SwiftDoc](https://github.com/dheerajpapani/SwiftDoc) — TypeScript-based project for documentation/workflow use cases.
+
 
 ## 📈 GitHub Stats
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajpapani&show_icons=true&theme=transparent)
@@ -35,5 +33,5 @@ Building practical AI + geospatial/web products.
 
 ## 📫 Connect
 - GitHub: [dheerajpapani](https://github.com/dheerajpapani)
-- LinkedIn: TODO (add profile URL)
-- Email: TODO (add public email)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/dheerajpapani)
+- Email: [dheerajpapani@gmail.com](mailto:dheerajpapani@gmail.com)
