@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Dheeraj 👋
 
-<!--
-**dheerajpapani/dheerajpapani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- **Name:** Dheeraj
+- **GitHub Username:** [@dheerajpapani](https://github.com/dheerajpapani)
+- **Location:** _To be updated_
+- **Current Role:** _To be updated_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- _To be updated_
+
+## 🌱 What I’m Learning
+- _To be updated_
+
+## 🤝 Open to Collaborate On
+- _To be updated_
+
+## 💬 Ask Me About
+- _To be updated_
+
+## 📫 Contact
+- **Email:** _To be updated_
+- **LinkedIn:** _To be updated_
+
+## ⚡ Fun Fact
+- _To be updated_
